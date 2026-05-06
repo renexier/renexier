@@ -105,7 +105,7 @@ an interactive audio visual playground with animated animals,
 music feedback, and reactive effects.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renexier&repo=Safari-musical-keys&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://raw.githubusercontent.com/renexier/Safari-musical-keys/main/preview.gif" width="900"/>
 </p>
 
 ---
@@ -113,9 +113,9 @@ music feedback, and reactive effects.
 ## STATS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renexier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=renexier&show_icons=true&theme=radical&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renexier&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renexier&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -123,7 +123,7 @@ music feedback, and reactive effects.
 ## STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=renexier&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=renexier&theme=radical&hide_border=true" />
 </p>
 
 ---
