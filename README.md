@@ -34,7 +34,77 @@
 
 ---
 
-## ABOUT
+# LIVE EXPERIENCES
+
+<p align="center">
+
+  <a href="https://renexier.github.io/Safari-musical-keys/">
+    <img src="https://img.shields.io/badge/SAFARI_KEYS-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://renexier.github.io/nixie-clock/">
+    <img src="https://img.shields.io/badge/NIXIE_CLOCK-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</p>
+
+---
+
+# FEATURED PROJECTS
+
+## Safari Musical Keys
+
+A virtual keyboard experiment that transforms typing into
+an interactive audio visual playground with animated animals,
+music feedback, and reactive effects.
+
+<p align="center">
+  <a href="https://renexier.github.io/Safari-musical-keys/">
+    <img src="https://raw.githubusercontent.com/renexier/Safari-musical-keys/main/preview.gif" width="900"/>
+  </a>
+</p>
+
+<p align="center">
+
+  <a href="https://renexier.github.io/Safari-musical-keys/">
+    <img src="https://img.shields.io/badge/OPEN_WEBSITE-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/renexier/Safari-musical-keys">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</p>
+
+---
+
+## Interactive Nixie Clock
+
+A cinematic retro-futuristic nixie tube clock featuring
+realistic glass reflections, live timezone detection,
+ambient atmosphere, and interactive lighting effects.
+
+<p align="center">
+  <a href="https://renexier.github.io/nixie-clock/">
+    <img src="https://raw.githubusercontent.com/renexier/nixie-clock/main/preview.gif" width="900"/>
+  </a>
+</p>
+
+<p align="center">
+
+  <a href="https://renexier.github.io/nixie-clock/">
+    <img src="https://img.shields.io/badge/OPEN_CLOCK-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/renexier/nixie-clock">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</p>
+
+---
+
+# ABOUT
 
 ```yaml
 name: Mayank Ranjan
@@ -57,7 +127,7 @@ focus:
 
 ---
 
-## STACK
+# STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender,figma,html,css,js,lua,vscode,github" />
@@ -65,7 +135,7 @@ focus:
 
 ---
 
-## DESIGN STACK
+# DESIGN STACK
 
 ```txt
 ◉ PREMIERE PRO
@@ -84,7 +154,7 @@ focus:
 
 ---
 
-## CURRENTLY BUILDING
+# CURRENTLY BUILDING
 
 ```txt
 ► INTERACTIVE WEB EXPERIENCES
@@ -96,29 +166,7 @@ focus:
 
 ---
 
-## FEATURED PROJECT
-
-### Safari Musical Keys
-
-A virtual keyboard experiment that transforms typing into
-an interactive audio visual playground with animated animals,
-music feedback, and reactive effects.
-
-<p align="center">
-  <a href="https://renexier.github.io/Safari-musical-keys/">
-    <img src="https://raw.githubusercontent.com/renexier/Safari-musical-keys/main/preview.gif" width="900"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://renexier.github.io/Safari-musical-keys/">
-    <img src="https://img.shields.io/badge/PLAY_NOW-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## STATS
+# STATS
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renexier&show_icons=true&theme=radical&hide_border=true"/>
@@ -128,7 +176,7 @@ music feedback, and reactive effects.
 
 ---
 
-## STREAK
+# STREAK
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=renexier&theme=radical&hide_border=true" />
@@ -136,7 +184,7 @@ music feedback, and reactive effects.
 
 ---
 
-## ACTIVITY GRAPH
+# ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=renexier&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
@@ -144,7 +192,7 @@ music feedback, and reactive effects.
 
 ---
 
-## CONTRIBUTION SNAKE
+# CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/renexier/renexier/output/github-contribution-grid-snake-dark.svg" />
@@ -152,7 +200,7 @@ music feedback, and reactive effects.
 
 ---
 
-## PHILOSOPHY
+# PHILOSOPHY
 
 ```txt
 I BUILD INTERFACES THAT MOVE.
