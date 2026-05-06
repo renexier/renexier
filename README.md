@@ -3,52 +3,61 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Mayank+Ranjan;Creative+Designer+%26+Developer;Roblox+Game+Designer;Motion+Graphics+Artist;Building+Interactive+Experiences+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=MAYANK+RANJAN;RENEXIER;CREATIVE+DESIGNER;ROBLOX+GAME+DEVELOPER;MOTION+GRAPHICS+ARTIST;BUILDING+INTERACTIVE+SYSTEMS" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=renexier&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/renexier?style=for-the-badge&color=8A2BE2" />
-  <img src="https://img.shields.io/github/stars/renexier?style=for-the-badge&color=FF00FF" />
+  <a href="https://mayank-portfolio.framer.website/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.gg/TpXBcNDJsw">
+    <img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
+  <a href="https://youtube.com/@renexier-ytgame?si=hcbXHmoNojxVBD3B">
+    <img src="https://img.shields.io/badge/YOUTUBE-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/ice_creambite?igsh=djBvMzNiMGRhc255">
+    <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mayank-r-15a449290">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=renexier&label=PROFILE+VIEWS&color=111111&style=for-the-badge" />
 </p>
 
 ---
 
-# ⚡ ABOUT ME
+## ABOUT
 
 ```yaml
-Name: Mayank Ranjan
-Username: renexier
+name: Mayank Ranjan
+alias: renexier
 
-Roles:
+roles:
   - Creative Designer
-  - Video Editor
   - Motion Graphics Artist
-  - Roblox Game Developer
+  - Video Editor
+  - Roblox Developer
   - Web Designer
 
-Focus:
+focus:
   - Interactive Experiences
-  - Creative Systems
-  - UI Motion Design
-  - Branding
-  - Multiplayer Roblox Systems
-
-Mission:
-  Creating visuals that move,
-  systems that react,
-  and experiences people remember.
+  - Multiplayer Systems
+  - Motion Design
+  - Visual Identity
+  - Creative Development
 ```
 
 ---
 
-# 🌌 DESIGN STACK
-
-> I build with precision. Premiere Pro and After Effects for editing and motion. Illustrator, Photoshop, and Canva for design. Blender for 3D creation. Roblox Studio with Luau for scalable game systems. Generative AI tools like ChatGPT, Midjourney, Runway, Leonardo AI, and Adobe Firefly for rapid ideation and execution.
-
----
-
-# 🛠 TECH & CREATIVE TOOLS
+## STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender,figma,html,css,js,lua,vscode,github" />
@@ -56,66 +65,62 @@ Mission:
 
 ---
 
-# 🎬 CREATIVE SPECIALITIES
+## DESIGN STACK
 
-| Skill | What I Build |
-|---|---|
-| 🎥 Video Editing | Cinematic edits, reels, YouTube content |
-| 🎨 Graphic Design | Logos, branding, social creatives |
-| ⚡ Motion Graphics | Dynamic visuals and transitions |
-| 🌐 Web Design | Clean futuristic interfaces |
-| 🎮 Roblox Development | Multiplayer systems and gameplay |
-| 🤖 AI Workflows | Concept art, automation, ideation |
-
----
-
-# 📚 CURRENTLY LEARNING
-
-- Advanced Roblox Systems
-- Creative Development
-- UI Motion Design
-- Interactive Web Experiences
-- 3D Visual Storytelling
-- Scalable Game Architecture
+```txt
+Premiere Pro
+After Effects
+Photoshop
+Illustrator
+Blender
+Canva
+Roblox Studio
+ChatGPT
+Runway
+Midjourney
+Leonardo AI
+Adobe Firefly
+```
 
 ---
 
-# 🚀 FEATURED PROJECT
+## CURRENTLY BUILDING
 
-# 🎹 Safari Musical Keys
-
-A playful virtual keyboard experience that:
-- Plays musical sounds
-- Spawns animated animals
-- Creates interactive visual feedback
-- Turns typing into a digital safari 🌴
+```txt
+Interactive Web Experiences
+Roblox Multiplayer Systems
+Motion Driven Interfaces
+Experimental UI Concepts
+Creative Automation Workflows
+```
 
 ---
 
-## 📸 PROJECT PREVIEW
+## FEATURED PROJECT
+
+### Safari Musical Keys
+
+A virtual keyboard experiment that transforms typing into
+an interactive audio visual playground with animated animals,
+music feedback, and reactive effects.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/renexier/Safari-musical-keys/main/preview.png" width="900"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renexier&repo=Safari-musical-keys&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
-🔗 Repository:
-https://github.com/renexier/Safari-musical-keys
-
 ---
 
-# 📊 GITHUB STATS
+## STATS
 
 <p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renexier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renexier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renexier&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
 </p>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+## STREAK
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=renexier&theme=tokyonight&hide_border=true" />
@@ -123,7 +128,7 @@ https://github.com/renexier/Safari-musical-keys
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+## ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=renexier&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
@@ -131,7 +136,7 @@ https://github.com/renexier/Safari-musical-keys
 
 ---
 
-# 🐍 SNAKE EATING CONTRIBUTIONS
+## CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/renexier/renexier/output/github-contribution-grid-snake-dark.svg" />
@@ -139,51 +144,16 @@ https://github.com/renexier/Safari-musical-keys
 
 ---
 
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="https://mayank-portfolio.framer.website/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/TpXBcNDJsw">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@renexier-ytgame?si=hcbXHmoNojxVBD3B">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/ice_creambite?igsh=djBvMzNiMGRhc255">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mayank-r-15a449290">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🎵 CREATOR PHILOSOPHY
-
-> I build interfaces that move,  
-> systems that react,  
-> and visuals that stay in memory.
-
----
-
-# ⚡ FUN FACT
+## PHILOSOPHY
 
 ```txt
-I mix design, motion, code, and game systems
-to create experiences instead of just projects.
+I build interfaces that move,
+systems that react,
+and visuals that stay in memory.
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=120&section=footer"/>
 </p>
