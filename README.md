@@ -1,150 +1,129 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/renexier/renexier/main/renexier.png" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Mayank+Ranjan;Creative+Designer+%26+Editor;Roblox+Game+Designer;Web+Designer;Building+Cool+Interactive+Experiences+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Mayank+Ranjan;Creative+Designer+%26+Developer;Roblox+Game+Designer;Motion+Graphics+Artist;Building+Interactive+Experiences+🚀" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=renexier&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=renexier&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/renexier?style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/github/stars/renexier?style=for-the-badge&color=FF00FF" />
 </p>
 
 ---
 
-# ⚡ About Me
+# ⚡ ABOUT ME
 
 ```yaml
 Name: Mayank Ranjan
 Username: renexier
-Role: Creative Designer & Developer
+
+Roles:
+  - Creative Designer
+  - Video Editor
+  - Motion Graphics Artist
+  - Roblox Game Developer
+  - Web Designer
 
 Focus:
-  - Video Editing
-  - Motion Graphics
-  - Logo Design
-  - Graphic Design
-  - Web Design
-  - Roblox Game Development
-  - Creative AI Workflows
+  - Interactive Experiences
+  - Creative Systems
+  - UI Motion Design
+  - Branding
+  - Multiplayer Roblox Systems
 
-Current Mission:
-  Building cinematic visuals, interactive experiences,
-  and scalable Roblox systems.
+Mission:
+  Creating visuals that move,
+  systems that react,
+  and experiences people remember.
 ```
 
 ---
 
-# 🌌 Design Stack
+# 🌌 DESIGN STACK
 
-> I build with precision. Premiere Pro and After Effects for editing and motion.  
-> Illustrator, Photoshop, and Canva for design.  
-> Blender for 3D creation.  
-> Roblox Studio with Luau for scalable game systems.  
-> Generative AI tools like ChatGPT, Midjourney, Runway, Leonardo AI, and Adobe Firefly for rapid ideation and execution.
+> I build with precision. Premiere Pro and After Effects for editing and motion. Illustrator, Photoshop, and Canva for design. Blender for 3D creation. Roblox Studio with Luau for scalable game systems. Generative AI tools like ChatGPT, Midjourney, Runway, Leonardo AI, and Adobe Firefly for rapid ideation and execution.
 
 ---
 
-# 🛠 Creative Arsenal
+# 🛠 TECH & CREATIVE TOOLS
 
-### 🎬 Adobe Creative Suite
-
-<p>
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender,figma,html,css,js,lua,vscode,github" />
 </p>
 
-- Premiere Pro
-- After Effects
-- Photoshop
-- Illustrator
+---
 
-Used for:
-- Motion Graphics
-- Cinematic Editing
-- Branding
-- Social Media Design
-- Thumbnails
-- Visual Identity Systems
+# 🎬 CREATIVE SPECIALITIES
+
+| Skill | What I Build |
+|---|---|
+| 🎥 Video Editing | Cinematic edits, reels, YouTube content |
+| 🎨 Graphic Design | Logos, branding, social creatives |
+| ⚡ Motion Graphics | Dynamic visuals and transitions |
+| 🌐 Web Design | Clean futuristic interfaces |
+| 🎮 Roblox Development | Multiplayer systems and gameplay |
+| 🤖 AI Workflows | Concept art, automation, ideation |
 
 ---
 
-### 🎨 Design & Creative Tools
+# 📚 CURRENTLY LEARNING
 
-<p>
-<img src="https://skillicons.dev/icons?i=blender,figma" />
-</p>
-
-- Blender
-- Canva
-- Figma
-- Creative AI Pipelines
-
-Used for:
-- 3D Design
-- Rendering
-- Compositing
-- Layouts
-- Presentation Design
-- Creative Prototyping
-
----
-
-### 🤖 AI Tools
-
-- ChatGPT
-- Midjourney
-- Runway
-- Leonardo AI
-- Adobe Firefly
-
-Used for:
-- Ideation
-- Concept Art
-- Automation
-- Visual Experimentation
-- Workflow Acceleration
-
----
-
-### 🎮 Roblox Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=robloxstudio,lua" />
-</p>
-
-I build Roblox systems using Luau scripting with focus on:
-
-- Multiplayer Systems
-- Secure Remotes
-- UI/UX
-- Interactive Gameplay
-- Optimization
+- Advanced Roblox Systems
+- Creative Development
+- UI Motion Design
+- Interactive Web Experiences
+- 3D Visual Storytelling
 - Scalable Game Architecture
 
 ---
 
-# 🚀 Featured Project
+# 🚀 FEATURED PROJECT
 
-## 🎹 Safari Musical Keys
+# 🎹 Safari Musical Keys
 
-A playful virtual keyboard that:
-- Plays sounds
+A playful virtual keyboard experience that:
+- Plays musical sounds
 - Spawns animated animals
 - Creates interactive visual feedback
-- Turns typing into a tiny digital safari 🌴
+- Turns typing into a digital safari 🌴
+
+---
+
+## 📸 PROJECT PREVIEW
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/renexier/Safari-musical-keys/main/preview.png" width="900"/>
+</p>
 
 🔗 Repository:
 https://github.com/renexier/Safari-musical-keys
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GITHUB STATS
 
 <p align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renexier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renexier&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 🔥 CONTRIBUTION STREAK
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=renexier&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=renexier&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
@@ -152,7 +131,7 @@ https://github.com/renexier/Safari-musical-keys
 
 ---
 
-# 🐍 Snake Eating Contributions
+# 🐍 SNAKE EATING CONTRIBUTIONS
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/renexier/renexier/output/github-contribution-grid-snake-dark.svg" />
@@ -160,7 +139,7 @@ https://github.com/renexier/Safari-musical-keys
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 
@@ -188,13 +167,23 @@ https://github.com/renexier/Safari-musical-keys
 
 ---
 
-# ⚡ Philosophy
+# 🎵 CREATOR PHILOSOPHY
 
-> Design is not decoration.  
-> It is engineered emotion.
+> I build interfaces that move,  
+> systems that react,  
+> and visuals that stay in memory.
+
+---
+
+# ⚡ FUN FACT
+
+```txt
+I mix design, motion, code, and game systems
+to create experiences instead of just projects.
+```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=150&section=footer"/>
 </p>
