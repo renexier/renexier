@@ -68,18 +68,18 @@ focus:
 ## DESIGN STACK
 
 ```txt
-Premiere Pro
-After Effects
-Photoshop
-Illustrator
-Blender
-Canva
-Roblox Studio
-ChatGPT
-Runway
-Midjourney
-Leonardo AI
-Adobe Firefly
+◉ PREMIERE PRO
+◉ AFTER EFFECTS
+◉ PHOTOSHOP
+◉ ILLUSTRATOR
+◉ BLENDER
+◉ CANVA
+◉ ROBLOX STUDIO
+◉ CHATGPT
+◉ RUNWAY
+◉ MIDJOURNEY
+◉ LEONARDO AI
+◉ ADOBE FIREFLY
 ```
 
 ---
@@ -87,11 +87,11 @@ Adobe Firefly
 ## CURRENTLY BUILDING
 
 ```txt
-Interactive Web Experiences
-Roblox Multiplayer Systems
-Motion Driven Interfaces
-Experimental UI Concepts
-Creative Automation Workflows
+► INTERACTIVE WEB EXPERIENCES
+► ROBLOX MULTIPLAYER SYSTEMS
+► MOTION DRIVEN INTERFACES
+► EXPERIMENTAL UI CONCEPTS
+► CREATIVE AUTOMATION WORKFLOWS
 ```
 
 ---
@@ -113,9 +113,9 @@ music feedback, and reactive effects.
 ## STATS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=renexier&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renexier&show_icons=true&theme=radical&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renexier&layout=compact&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renexier&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -147,9 +147,9 @@ music feedback, and reactive effects.
 ## PHILOSOPHY
 
 ```txt
-I build interfaces that move,
-systems that react,
-and visuals that stay in memory.
+I BUILD INTERFACES THAT MOVE.
+SYSTEMS THAT REACT.
+VISUALS THAT STAY IN MEMORY.
 ```
 
 ---
