@@ -46,8 +46,11 @@
     <img src="https://img.shields.io/badge/NIXIE_CLOCK-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-</p>
+  <a href="https://renexier.github.io/Galaxy-Audio-Room/">
+    <img src="https://img.shields.io/badge/GALAXY_AUDIO_ROOM-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
+</p>
 ---
 
 # FEATURED PROJECTS
