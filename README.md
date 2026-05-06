@@ -105,7 +105,15 @@ an interactive audio visual playground with animated animals,
 music feedback, and reactive effects.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/renexier/Safari-musical-keys/main/preview.gif" width="900"/>
+  <a href="https://renexier.github.io/Safari-musical-keys/">
+    <img src="https://raw.githubusercontent.com/renexier/Safari-musical-keys/main/preview.gif" width="900"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://renexier.github.io/Safari-musical-keys/">
+    <img src="https://img.shields.io/badge/PLAY_NOW-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
