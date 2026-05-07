@@ -40,29 +40,19 @@
 
 <p align="center">
 
-<span style="color:#b68cff;">
-I create cinematic interactive web experiences that can be:
-</span>
+<img src="https://img.shields.io/badge/EMBEDDABLE-WEBSITE_EXPERIENCES-8A2BE2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/REALTIME-AUDIO_VISUAL_SYSTEMS-111111?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CUSTOM-FUTURISTIC_UI-00C2FF?style=for-the-badge">
 
 </p>
 
 <p align="center">
 
-<span style="color:#ffffff;">
-• Embedded directly into websites<br>
-• Customized for brands or portfolios<br>
-• Adapted into landing pages or widgets<br>
-• Turned into realtime audio visualizers<br>
-• Designed for futuristic UI experiences
-</span>
+I create cinematic interactive web experiences for websites, portfolios, landing pages and realtime visual systems.
 
-</p>
-
-<p align="center">
-
-<span style="color:#8c8cff;">
-Available for custom commissions and collaborations.
-</span>
+Custom commissions, embeds and collaborations available.
 
 </p>
 
@@ -77,7 +67,6 @@ Available for custom commissions and collaborations.
   </a>
 
 </p>
-
 ---
 
 # FEATURED PROJECTS
