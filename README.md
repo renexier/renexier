@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/YOUTUBE-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/ice_creambite">
+  <a href="https://www.instagram.com/_mayank._r">
     <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
