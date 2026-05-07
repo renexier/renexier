@@ -36,6 +36,28 @@
 
 # LIVE EXPERIENCES
 
+```yaml
+custom_experiences:
+
+  embeddable:
+    - Interactive Websites
+    - Audio Reactive Systems
+    - Futuristic UI Experiences
+    - Landing Page Visuals
+    - Interactive Widgets
+
+  services:
+    - Custom Visual Systems
+    - Realtime Web Experiences
+    - Creative Frontend Design
+    - Cinematic Interfaces
+
+  availability:
+    status: OPEN
+    commissions: ACTIVE
+    collaborations: AVAILABLE
+```
+
 ## <p align="center">CUSTOM EXPERIENCES & EMBEDS</p>
 
 <p align="center">
