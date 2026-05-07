@@ -51,6 +51,31 @@
   </a>
 
 </p>
+
+## CUSTOM EXPERIENCES & EMBEDS
+
+I create cinematic interactive web experiences that can be:
+
+• Embedded directly into websites  
+• Customized for brands or portfolios  
+• Adapted into landing pages or widgets  
+• Turned into realtime audio visualizers  
+• Designed for futuristic UI experiences  
+
+Available for custom commissions and collaborations.
+
+<p align="center">
+
+  <a href="https://mayank-portfolio.framer.website/">
+    <img src="https://img.shields.io/badge/HIRE_ME-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:mayankranjan486@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
+
 ---
 
 # FEATURED PROJECTS
