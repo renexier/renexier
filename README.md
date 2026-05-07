@@ -55,6 +55,32 @@
 
 # FEATURED PROJECTS
 
+## Galaxy Audio Room X
+
+A cinematic realtime 3D galaxy audio room featuring
+live microphone audio visualization, reactive neon lighting,
+cinematic mouse controlled camera movement, dynamic galaxy
+effects, supernova click bursts, and GPU accelerated rendering.
+
+<p align="center">
+  <a href="https://renexier.github.io/Galaxy-Audio-Room/">
+    <img src="https://raw.githubusercontent.com/renexier/Galaxy-Audio-Room/main/preview.gif" width="900"/>
+  </a>
+</p>
+
+<p align="center">
+
+  <a href="https://renexier.github.io/Galaxy-Audio-Room/">
+    <img src="https://img.shields.io/badge/OPEN_EXPERIENCE-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/renexier/Galaxy-Audio-Room">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</p>
+```
+
 ## Safari Musical Keys
 
 A virtual keyboard experiment that transforms typing into
