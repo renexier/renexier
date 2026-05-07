@@ -36,38 +36,40 @@
 
 # LIVE EXPERIENCES
 
+## <p align="center">CUSTOM EXPERIENCES & EMBEDS</p>
+
 <p align="center">
 
-  <a href="https://renexier.github.io/Safari-musical-keys/">
-    <img src="https://img.shields.io/badge/SAFARI_KEYS-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://renexier.github.io/nixie-clock/">
-    <img src="https://img.shields.io/badge/NIXIE_CLOCK-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://renexier.github.io/Galaxy-Audio-Room/">
-    <img src="https://img.shields.io/badge/GALAXY_AUDIO_ROOM-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<span style="color:#b68cff;">
+I create cinematic interactive web experiences that can be:
+</span>
 
 </p>
 
-## CUSTOM EXPERIENCES & EMBEDS
+<p align="center">
 
-I create cinematic interactive web experiences that can be:
+<span style="color:#ffffff;">
+• Embedded directly into websites<br>
+• Customized for brands or portfolios<br>
+• Adapted into landing pages or widgets<br>
+• Turned into realtime audio visualizers<br>
+• Designed for futuristic UI experiences
+</span>
 
-• Embedded directly into websites  
-• Customized for brands or portfolios  
-• Adapted into landing pages or widgets  
-• Turned into realtime audio visualizers  
-• Designed for futuristic UI experiences  
+</p>
 
+<p align="center">
+
+<span style="color:#8c8cff;">
 Available for custom commissions and collaborations.
+</span>
+
+</p>
 
 <p align="center">
 
   <a href="https://mayank-portfolio.framer.website/">
-    <img src="https://img.shields.io/badge/HIRE_ME-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HIRE_ME-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
   <a href="mailto:mayankranjan486@gmail.com">
