@@ -36,45 +36,37 @@
 
 # LIVE EXPERIENCES
 
-```yaml
-custom_experiences:
-
-  embeddable:
-    - Interactive Websites
-    - Audio Reactive Systems
-    - Futuristic UI Experiences
-    - Landing Page Visuals
-    - Interactive Widgets
-
-  services:
-    - Custom Visual Systems
-    - Realtime Web Experiences
-    - Creative Frontend Design
-    - Cinematic Interfaces
-
-  availability:
-    status: OPEN
-    commissions: ACTIVE
-    collaborations: AVAILABLE
-```
-
 ## <p align="center">CUSTOM EXPERIENCES & EMBEDS</p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/EMBEDDABLE-WEBSITE_EXPERIENCES-8A2BE2?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/REALTIME-AUDIO_VISUAL_SYSTEMS-111111?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/CUSTOM-FUTURISTIC_UI-00C2FF?style=for-the-badge">
+```diff
++ I create cinematic interactive web experiences that can be:
+```
 
 </p>
 
 <p align="center">
 
-I create cinematic interactive web experiences for websites, portfolios, landing pages and realtime visual systems.
+```yaml
+embedded:
+  - Websites
+  - Portfolios
+  - Landing Pages
+  - Interactive Widgets
+```
 
-Custom commissions, embeds and collaborations available.
+```css
+Realtime Features:
+• Audio Reactive Systems
+• Cinematic UI
+• Galaxy Visuals
+• Interactive Experiences
+```
+
+```diff
++ Available for commissions and collaborations
+```
 
 </p>
 
@@ -86,34 +78,6 @@ Custom commissions, embeds and collaborations available.
 
   <a href="mailto:mayankranjan486@gmail.com">
     <img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-</p>
----
-
-# FEATURED PROJECTS
-
-## Galaxy Audio Room X
-
-A cinematic realtime 3D galaxy audio room featuring
-live microphone audio visualization, reactive neon lighting,
-cinematic mouse controlled camera movement, dynamic galaxy
-effects, supernova click bursts, and GPU accelerated rendering.
-
-<p align="center">
-  <a href="https://renexier.github.io/Galaxy-Audio-Room/">
-    <img src="https://raw.githubusercontent.com/renexier/Galaxy-Audio-Room/main/preview.gif" width="900"/>
-  </a>
-</p>
-
-<p align="center">
-
-  <a href="https://renexier.github.io/Galaxy-Audio-Room/">
-    <img src="https://img.shields.io/badge/OPEN_EXPERIENCE-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/renexier/Galaxy-Audio-Room">
-    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 </p>
