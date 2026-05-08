@@ -44,6 +44,10 @@
     <img src="https://img.shields.io/badge/SAFARI_KEYS-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
+  <a href="https://renexier.github.io/RENE-Search-Ai/">
+    <img src="https://img.shields.io/badge/RENE_SEARCH_AI-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
   <a href="https://renexier.github.io/nixie-clock/">
     <img src="https://img.shields.io/badge/NIXIE_CLOCK-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
