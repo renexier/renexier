@@ -1,6 +1,107 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/renexier/renexier/main/renexier.png" />
 </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Binary Rain</title>
+
+<style>
+    *{
+        margin:0;
+        padding:0;
+        box-sizing:border-box;
+    }
+
+    body{
+        overflow:hidden;
+        background:#000;
+        font-family:monospace;
+    }
+
+    canvas{
+        display:block;
+    }
+
+    .overlay{
+        position:absolute;
+        top:50%;
+        left:50%;
+        transform:translate(-50%,-50%);
+        color:#00ff88;
+        font-size:2rem;
+        letter-spacing:4px;
+        text-shadow:0 0 10px #00ff88;
+        pointer-events:none;
+        opacity:0.85;
+    }
+</style>
+</head>
+
+<body>
+
+<canvas id="matrix"></canvas>
+
+<script>
+const canvas = document.getElementById("matrix");
+const ctx = canvas.getContext("2d");
+
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+
+const binary = "01";
+const fontSize = 18;
+const columns = canvas.width / fontSize;
+
+const drops = [];
+
+for(let x = 0; x < columns; x++){
+    drops[x] = 1;
+}
+
+function draw(){
+
+    // dark fading trail
+    ctx.fillStyle = "rgba(0, 0, 0, 0.08)";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    ctx.fillStyle = "#00ff88";
+    ctx.font = fontSize + "px monospace";
+
+    for(let i = 0; i < drops.length; i++){
+
+        const text = binary[Math.floor(Math.random() * binary.length)];
+
+        ctx.fillText(
+            text,
+            i * fontSize,
+            drops[i] * fontSize
+        );
+
+        // random reset for endless rain
+        if(
+            drops[i] * fontSize > canvas.height &&
+            Math.random() > 0.975
+        ){
+            drops[i] = 0;
+        }
+
+        drops[i]++;
+    }
+}
+
+setInterval(draw, 35);
+
+window.addEventListener("resize", () => {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+});
+</script>
+
+</body>
+</html>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=MAYANK+RANJAN;RENEXIER;CREATIVE+DESIGNER;ROBLOX+GAME+DEVELOPER;MOTION+GRAPHICS+ARTIST;BUILDING+INTERACTIVE+SYSTEMS" />
